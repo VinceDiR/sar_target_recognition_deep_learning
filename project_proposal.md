@@ -19,9 +19,9 @@ The goal of this project is to create a deep learning model that accurately clas
 
 ## Success Metrics:
 
-In practical terms, this model would be used in tandem with a human analyst. Because of that we want to reduce the number of false negatives as much as possible (if the model detects no target, the analyst may not double check, and the information may be missed.). 
+In practical terms, this model would be used in tandem with a human analyst. Because of that, we want a model that would return every potential target match found in satellite imagery, and allow the subject matter expert to sort though the results.
 
-As a secondary success metric, we also want to reduce the number of false positives the model produces, as that would increase the amount of meaningless imagery an analyst would have to check.
+In technical terms, we are looking for model that exhibits high accuracy and high recall. Accuracy refers to how well the model identifies the various targets. Recall refers to the models ability to capture all relevant results.
 
 ## Data Description:
 
