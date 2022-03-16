@@ -49,4 +49,4 @@ The MSTAR dataset was prdocued between 1995-1997 in a collaboration between DARP
 
 ## MVP Goal:
 
-Produce a baseline neural network and evaluate the results using a confusion matrix.
+Produce a baseline neural network and evaluate the results using a confusion matrix. Use these results to inform subsequent direction of solution path and future iterations.
