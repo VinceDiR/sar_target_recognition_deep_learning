@@ -11,8 +11,6 @@ Of particular interest for this task is synthetic aperture radar (SAR) imagery. 
 
 Given the volume of high resolution satellite imagery coming from conflict zones on a 24/7 basis, observers, and most importantly the combatants themselves, should employ methods that allow them to quickly analyze and identify the presence of objects such as land, sea, and air assets, or siginificant changes over time in imagery.
 
-![](maxar_syria.mp4)
-
 In this project, we will work with the Moving and Stationary Target Acquisition and Recognition (MSTAR) Dataset produced by the United States Defense Adavanced Research Projects Agency (DARPA) and U.S. Air Force Research Laboratory. Using Deep Learning models, we will attempt to correctly identify and classify targets within SAR imagery, and evaluate the efficacy of using such a model in a real-world enviornment using selected metrics from our results.
 
 ## Goal:
