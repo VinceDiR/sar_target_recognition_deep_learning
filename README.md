@@ -7,7 +7,7 @@ As the general public strives to stay on top of modern conflicts such as the Rus
 
 Of particular interest for this task is synthetic aperture radar (SAR) imagery. SAR has the ability to penetrate atmospheric conditions, and provide visibility in cloud-covered areas both day and night.
 
-![](maxar_sar_image.jpg)
+![](images/maxar_sar_image.jpg)
 
 Given the volume of high resolution satellite imagery coming from conflict zones on a 24/7 basis, observers, and most importantly the combatants themselves, should employ methods that allow them to quickly analyze and identify the presence of objects such as land, sea, and air assets, or siginificant changes over time in imagery.
 
@@ -35,7 +35,7 @@ The MSTAR dataset was prdocued between 1995-1997 in a collaboration between DARP
 7. [ZIL-131](https://en.wikipedia.org/wiki/ZIL-131#:~:text=The%20ZIL%2D131%20is%20a,a%204%2Dwheeled%20powered%20trailer.)
 8. [ZSU-23-4 Shilka](https://en.wikipedia.org/wiki/ZSU-23-4_Shilka)
 
-![](mstar_example.png)
+![](images/mstar_example.png)
 
 ## Tools:
 
