@@ -24,6 +24,7 @@ The [dataset](https://www.kaggle.com/datasets/atreyamajumdar/mstar-dataset-8-cla
 - VGG19 Architecture
 
 *Model Evaluation and Selection*
+
 Dataset was split into 60/20/20 Train/Validation/Test split, and validation data was used to evaluate model performance and tune hyperparameters. Once final model selection had been made based on validation scores, final model was tested against test data. Model selection was driven by F2, Categorical Accuracy, and Matthews Correlation coefficient scores. Because we were working with fine margins, detailed confusion matrices for each model were also produced. As a final evaluation step, models produced a prediction given a satellite image of a Iraqi T-72 tank taken from the First Gulf War.
 
 **Final Convolutional Neural Network**
