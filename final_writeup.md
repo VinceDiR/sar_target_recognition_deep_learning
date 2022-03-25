@@ -45,4 +45,4 @@ Dataset was split into 60/20/20 Train/Validation/Test split, and validation data
 - **Matplotlib** and **Seaborn** for visualization
 
 ## Communication
-See [PDF]() of slides.
+See [PDF](https://github.com/NateDiR/sar_target_recognition_deep_learning/blob/main/ATR_DeepLearning_Presentation.pdf) of slides.
